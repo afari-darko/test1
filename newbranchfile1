@@ -1,3 +1,6 @@
 this is the first file in the new branch
 
 first edition of the file completed whiles in newbranch branch
+
+the conflict with the duplicate file in master has been fixed by deleting the file in the master branch.
+this file has been amended to reflect this
